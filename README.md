@@ -19,7 +19,7 @@ Untuk menjawab tantangan seperti stok menumpuk dan persaingan yang tinggi, proye
 ---
 
 ## 📊 Dataset
-- **Data:** 
+- **Data:** transaksi_dqlab_retail.tsv
 - **Jumlah Data:** 33.669 baris transaksi dari 3.450 kode transaksi  
 - **Kolom:** `Kode Transaksi`, `Nama Barang`
 
