@@ -1,7 +1,4 @@
-# 🛍️ Market Basket Analysis – Product Packaging  
-### Project Machine Learning for Retail with R - DQLab  
-by Nurliana
-
+# 🛍️ Project Machine Learning for Retail with R : Product Packaging - DQLab
 ---
 
 ## 📌 Deskripsi Singkat  
